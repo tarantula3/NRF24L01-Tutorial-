@@ -180,31 +180,49 @@ Thanks
 ------
 [![LhBIRMMAGGE](https://img.youtube.com/vi/LhBIRMMAGGE/0.jpg)](https://www.youtube.com/watch?v=LhBIRMMAGGE)
 Thanks again for checking my post. I hope it helps you.
+
 If you want to support me subscribe to my YouTube Channel: https://www.youtube.com/user/tarantula3
 
 Blog Posts: https://diyfactory007.blogspot.com/2022/06/NRF24L01-Tutorial.html
+
 Video references: https://youtu.be/LhBIRMMAGGE
 
+
 DataSheet
+
 https://drive.google.com/file/d/14Wi4DDhG1i5OAB7Sn-hKQhFbWdwkxufF/view?usp=sharing
 
+
 Schema
+
 Schema - Sending Text: https://drive.google.com/file/d/1bgZ_vP8lZvUyOU_WFzvVthM94oTR91TB/view?usp=sharing
+
 Schema - Lighting Up LEDs: https://drive.google.com/file/d/1bvgOq9IdSfqE5bjyXLU7suMYgC2rDJcn/view?usp=sharing
 
+
 Code
+
 Code 1 - Sending Text: https://drive.google.com/file/d/115yCQJQf_0v0qZ8TZHyMrcYMvTRNw5-S/view?usp=sharing
+
 Code 2 - Lighting Up LEDs: https://drive.google.com/file/d/14J_BLk9AgCjLmDTDMoOzYiDdQvrzddpx/view?usp=sharing
+
 Code 3 - Bidirectional Communication: https://drive.google.com/file/d/1pSlzdFBgvlCPzXbHxlj9DEb6WwEMrn4f/view?usp=sharing
 
+
 Libraries Used:
+
 TMRh20/RF24     : https://github.com/tmrh20/RF24/ 
+
 TMRh20/RF24     : https://drive.google.com/file/d/1QI2ysVEmlbmg7iBVQATmC1_LcBTWnNBn/view?usp=sharing
+
 RF24Mesh        : https://nrf24.github.io/RF24Mesh/
+
 pingpair_sleepy : https://maniacbug.github.io/RF24/pingpair_sleepy_8pde-example.html
 
 
+
 Support My Work:
+
 BTC:  1M1PdxVxSTPLoMK91XnvEPksVuAa4J4dDp
 
 LTC:  MQFkVkWimYngMwp5SMuSbMP4ADStjysstm
