@@ -13,7 +13,7 @@ But, I was not happy with this solution. So, I did a bit of research and found t
 In this tutorial, I am going to show you guys how to use this transceiver module to add wireless communication between two or more Arduino boards. I will be using this module for many of my upcoming home automation projects. Bang Problem solved..
 
 
-https://www.youtube.com/watch?v=LhBIRMMAGGE
+Video: https://www.youtube.com/watch?v=LhBIRMMAGGE
 
 What is a NRF24L01 RF Transceiver Module?
 -----------------------------------------
