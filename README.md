@@ -4,6 +4,8 @@ NRF24L01 Tutorial - Arduino Wireless Communication
 --------------------------------------------------
 [![LhBIRMMAGGE](https://img.youtube.com/vi/LhBIRMMAGGE/0.jpg)](https://www.youtube.com/watch?v=LhBIRMMAGGE)
 
+Video: https://youtu.be/LhBIRMMAGGE
+
 In my last tutorial I created a NodeMCU based Duino Coin Miner. It is an awesome little miner that sits on my desk and mines few cents a day. 
 However, adding these miners to my home network choked my WiFi router. Home Appliances and Smart Devices connected to the router constantly started dropping off. To my understanding, most of the wireless routers and access points can support upto 250 devices connected at once. So, what's happening here? 
 To clarify my doubts I called my ISP. The answer they gave was absolutely shocking. "ONLY 30 devices can successfully connect and exchange data via their router at any given time". Bloody hell!! 
